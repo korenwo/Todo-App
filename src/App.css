@@ -1,9 +1,5 @@
 body {
-  background: linear-gradient(
-      90deg,
-      rgb(92, 199, 50) 0%,
-      rgb(219, 13, 58) 100%
-  );
+  background-image: url(https://www.shore-access.com/wp-content/uploads/2017/08/portfolio-background.jpg);
 }
 
 .todo-app {
